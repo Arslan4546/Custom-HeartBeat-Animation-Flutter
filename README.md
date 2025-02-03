@@ -12,10 +12,10 @@ A **beautiful and smooth heartbeat animation** built using **Flutter's CustomPai
 ## 📸 Preview  
 <p align="center">
 
-### 🎥 With Heart Animation  
+### 🎥 Simple Heartbeat Animation  
 https://github.com/user-attachments/assets/bc9b1885-4edf-4c96-b81c-775601fcf2bc
 
-### 🎥 Simple Heartbeat Animation  
+### 🎥  Heart And Heartbeat Animation  
 https://github.com/user-attachments/assets/052272eb-80d8-4eb0-ac7f-3aefcba40e9e  
 </p>
 
